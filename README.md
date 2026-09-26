@@ -12,11 +12,12 @@ Working Features
 - Input your own personal ratios, add your own dose presets, and add brew method and grinder pairings to help keep track of dialling in
 - Handy dialling in logs, which do not appear on the home screen unless you specifically begin tracking - you can enter your grind size, dose in and water weight in/weight out, time, what you taste and how you want to change it next time
 - Once you are happy with your result, press the green Dialled In button, and not only are all the logs for that brew method removed, your grind size, weight in and out and time are kept on your home screen in case you forget
+- cleaning section to keep track of maintenance for your equipment
 
 Future Potential Additions
 
 - Bookmark menu of roasters - who you can click on to open in default browser of choice
-- Add cleaning section, allowing for cleaning actions to be given a name and date it was last carried out, they then appear in a list, with a button to the right of them which will reset the "last carried out" date to the current date - could consider adding some sort of "how often do you want to do this" for each action, and some sort of symbol that appears on the home screen if cleaning overdue
 - WearOS support - tile that has access to the dose presets
 - Making a proper app icon
 - Allow the pourover water recipe (that pops up when values are edited on home screen), to be edited in settings
+- Add export of user data
